@@ -7,10 +7,7 @@
   "plugins": [
     {
       "name": "github-issue-fixer",
-      "source": {
-        "source": "github",
-        "repo": "tomas2387/github-issue-fixer"
-      },
+      "source": "./",
       "displayName": "GitHub Issue Fixer",
       "description": "Autonomous GitHub issue fixing: single-issue TDD agent and parallel multi-issue fixer with conflict-aware batching",
       "version": "1.0.0",
