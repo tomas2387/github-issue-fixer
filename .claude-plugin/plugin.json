@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "github-issue-fixer",
+  "displayName": "GitHub Issue Fixer",
+  "version": "1.0.0",
+  "description": "Autonomous GitHub issue fixing: single-issue TDD agent and parallel multi-issue fixer with conflict-aware batching",
+  "author": {
+    "name": "tomas2387"
+  },
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "issues",
+    "tdd",
+    "parallel",
+    "automation",
+    "triage",
+    "worktree"
+  ]
+}
