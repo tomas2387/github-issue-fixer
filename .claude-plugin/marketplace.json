@@ -1,0 +1,23 @@
+{
+  "name": "tomas2387",
+  "owner": {
+    "name": "tomas2387",
+    "email": "tomas2387@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "github-issue-fixer",
+      "source": ".",
+      "displayName": "GitHub Issue Fixer",
+      "description": "Autonomous GitHub issue fixing: single-issue TDD agent and parallel multi-issue fixer with conflict-aware batching",
+      "version": "1.0.0",
+      "author": {
+        "name": "tomas2387"
+      },
+      "homepage": "https://github.com/tomas2387/github-issue-fixer",
+      "repository": "https://github.com/tomas2387/github-issue-fixer",
+      "license": "MIT",
+      "keywords": ["github", "issues", "tdd", "parallel", "automation", "triage", "worktree"]
+    }
+  ]
+}

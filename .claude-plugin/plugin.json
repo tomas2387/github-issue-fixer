@@ -7,6 +7,8 @@
   "author": {
     "name": "tomas2387"
   },
+  "homepage": "https://github.com/tomas2387/github-issue-fixer",
+  "repository": "https://github.com/tomas2387/github-issue-fixer",
   "license": "MIT",
   "keywords": [
     "github",
