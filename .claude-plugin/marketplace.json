@@ -8,8 +8,10 @@
     {
       "name": "github-issue-fixer",
       "source": {
-        "source": "url",
-        "url": "https://github.com/tomas2387/github-issue-fixer.git"
+        "source": "git-subdir",
+        "url": "https://github.com/tomas2387/github-issue-fixer.git",
+        "path": ".",
+        "sha": "f3681ea9f2668f82eae0764f5e4530b772c943b3"
       },
       "displayName": "GitHub Issue Fixer",
       "description": "Autonomous GitHub issue fixing: single-issue TDD agent and parallel multi-issue fixer with conflict-aware batching",
